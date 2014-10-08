@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\classLabs\LabDictionary\LabDictionary\bin\Debug\LabDictionary.exe.config
+C:\Users\tmace\Documents\csis2530\classLabs\LabDictionary\LabDictionary\bin\Debug\LabDictionary.exe
+C:\Users\tmace\Documents\csis2530\classLabs\LabDictionary\LabDictionary\bin\Debug\LabDictionary.pdb
+C:\Users\tmace\Documents\csis2530\classLabs\LabDictionary\LabDictionary\obj\Debug\LabDictionary.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\classLabs\LabDictionary\LabDictionary\obj\Debug\LabDictionary.exe
+C:\Users\tmace\Documents\csis2530\classLabs\LabDictionary\LabDictionary\obj\Debug\LabDictionary.pdb
